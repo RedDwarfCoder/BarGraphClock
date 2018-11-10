@@ -1,0 +1,40 @@
+html {
+}
+
+body {
+}
+
+#popUpTime {
+	display: none;
+}
+
+.container {
+	height: 100px;
+	margin: auto;
+	padding:  5px;
+	width: 50%;
+}
+
+.percent {
+	border: 1px solid #000000;
+}
+
+.hours {
+	background-color: #ff0000;
+}
+
+.minutes {
+	background-color: #00ff00;
+}
+
+.seconds {
+	background-color: #0000ff;
+}
+
+.hours, .minutes, .seconds {
+	color: #adadad;
+	height: 80%;
+	margin: 0 0;
+	width: 95%;
+	vertical-align: middle;
+}
